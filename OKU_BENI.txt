@@ -1,0 +1,9 @@
+MacBook Second-Hand Inspector
+
+1. Open EKRAN_TESTI.html in Safari and inspect all screen colors.
+2. Open KLAVYE_TESTI.html and press each key.
+3. Run CALISTIR.command on the Mac (Python 3 required).
+4. Review the TXT report on Desktop; do not publish serial numbers.
+5. Ask seller to erase the device and complete internet activation before paying.
+
+No software-only test can prove all components are original or rule out hidden corporate enrollment.
